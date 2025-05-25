@@ -71,6 +71,7 @@ The decompressor does the reverse:
 ```bash
 g++ main.cpp Huffman.cpp -o huff_compressor
 ./huff_compressor
+```
 
 Or in Dev-C++:
 
@@ -82,20 +83,24 @@ Press F9 to compile and run
 
 📥 Usage
 1️⃣ Compress a File
+```bash
 Huffman Compressor/Decompressor
 1. Compress
 2. Decompress
 Enter your choice: 1
 Enter input file path: C:\path\to\your\input.txt
 Enter output (compressed) file path: C:\path\to\compressed.huff
+```
 
 2️⃣ Decompress a File
 Huffman Compressor/Decompressor
+```bash
 1. Compress
 2. Decompress
 Enter your choice: 2
 Enter compressed file path: C:\path\to\compressed.huff
 Enter output (decompressed) file path: C:\path\to\restored.txt
+```
 
 🔐 Compression Format
 The output file stores:
