@@ -1,0 +1,19 @@
+CODTECH Internship Report
+Name: V. Deepak Jaya Ram Yadav 
+Internship Role: Software Developer Intern
+Duration: 2 Months
+Project: File Management Tool using C++
+
+Description:
+This project is designed to demonstrate basic file handling operations in C++.
+The tool supports writing, appending, and reading from text files.
+
+Skills Learned:
+- File I/O Operations
+- C++ Basics
+- Project Structure
+- Debugging and Testing
+
+Certificate of Completion will be issued on the internship end date.
+This is a Example Line of text to showcase how the Append Operations works in 
+this Application...!
